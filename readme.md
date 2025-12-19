@@ -68,7 +68,8 @@ fampay-assessment/
 │   └── result_TSLA.csv
 ├── README.md
 └── requirements.txt
-
+```
+---
 
 ## Requirements
 
