@@ -52,9 +52,12 @@ The solution performs the following steps in sequence:
 ## Project Structure
 
 ```text
-fampay-assessment/
+FamPay Assessment/
 ├── main.py
+├── validate_output.py
 ├── stock_data.csv
+├── requirements.txt
+├── .gitignore
 ├── output/
 │   ├── result_AAPL.csv
 │   ├── result_AMD.csv
@@ -66,8 +69,8 @@ fampay-assessment/
 │   ├── result_PEP.csv
 │   ├── result_TMUS.csv
 │   └── result_TSLA.csv
-├── README.md
-└── requirements.txt
+└── README.md
+
 ```
 ---
 
